@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor
 ------------------
 
-Sou o Mathias e atualmente estou estudando Java
+Sou o Mathias e atualmente estou estudando Analize e Desenvolvimento de Sistemas
 
 * 🌍  I'm based in Brazil
 
