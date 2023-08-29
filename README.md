@@ -20,7 +20,6 @@ Sou o Mathias e atualmente estou estudando Analize e Desenvolvimento de Sistemas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" /> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cursoemvideo.com%2Fcursos%2F&psig=AOvVaw0BxAv_sBkhg3wsRsKK_cty&ust=1693355367901000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjK3cPOgIEDFQAAAAAdAAAAABAE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 
