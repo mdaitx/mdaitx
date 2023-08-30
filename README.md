@@ -9,7 +9,7 @@ Sou o Mathias e atualmente estou estudando Analize e Desenvolvimento de Sistemas
 * 🌍  I'm based in Brazil
 
 ### Estou aprendendo
-    I am learning
+*  I am learning
     
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="36" height="36" />
