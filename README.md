@@ -31,7 +31,7 @@ Foco em **TypeScript**, interfaces com **React/Next.js** e **APIs** claras e tes
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" /></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /></td> 
 </tr></table>
 
 **Formação e outros projetos** — bases em **HTML/CSS**, **JavaScript**, **Java**, **C#**, **PHP**, **Python**; mobile com **Dart** / **Flutter**; bancos **MySQL** e **PostgreSQL**; experimentos de **IA** com Python em disciplina de faculdade.
