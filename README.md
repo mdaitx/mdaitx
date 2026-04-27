@@ -1,22 +1,25 @@
-### Olá, eu sou o Mathias Daitx
+### Mathias Daitx
 
-Desenvolvedor em formação · estudando **Análise e Desenvolvimento de Sistemas**.
+**Desenvolvedor web em formação** · **Análise e Desenvolvimento de Sistemas**.  
+Foco em **TypeScript**, interfaces com **React/Next.js** e **APIs** claras e testáveis. Busco juntar boa experiência de uso, organização de código e entrega contínua (deploy).
 
-- Localização: Brasil  
-- [LinkedIn](https://www.linkedin.com/in/mathiasdaitx)
+- Brasil · aberto a oportunidades e colaborações  
+- [LinkedIn](https://www.linkedin.com/in/mathiasdaitx) · [GitHub](https://github.com/mdaitx)
 
 ---
 
-#### Projeto em destaque — PDS
+#### Projeto em destaque
+
+**PDS** — aplicação **web full-stack** em evolução: front em produção e back-end dedicado.
 
 | | |
 | :--- | :--- |
-| **Front-end** | [`pds-frontend`](https://github.com/mdaitx/pds-frontend) · [demo (Vercel)](https://pds-frontend-one.vercel.app) |
-| **Back-end** | [`pds-backend`](https://github.com/mdaitx/pds-backend) |
+| **Interface** | [`pds-frontend`](https://github.com/mdaitx/pds-frontend) · [demo (Vercel)](https://pds-frontend-one.vercel.app) |
+| **API** | [`pds-backend`](https://github.com/mdaitx/pds-backend) |
 
 ---
 
-#### Stack e o que estou aprendendo
+#### Competências e tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" />
@@ -31,6 +34,8 @@ Desenvolvedor em formação · estudando **Análise e Desenvolvimento de Sistema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
 </p>
+
+*Base acadêmica sólida em lógica, banco de dados e disciplinas de engenharia de software; aprofundando stack web moderna no dia a dia do repositório.*
 
 ---
 
