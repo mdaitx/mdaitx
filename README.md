@@ -14,7 +14,7 @@ Foco em **TypeScript**, interfaces com **React/Next.js** e **APIs** claras e tes
 
 | | |
 | :--- | :--- |
-| **Interface** | [`pds-frontend`](https://github.com/mdaitx/pds-frontend) · [demo (Vercel)](https://pds-frontend-one.vercel.app) |
+| **Interface** | [`pds-frontend`](https://github.com/mdaitx/pds-frontend) |
 | **API** | [`pds-backend`](https://github.com/mdaitx/pds-backend) |
 
 ---
